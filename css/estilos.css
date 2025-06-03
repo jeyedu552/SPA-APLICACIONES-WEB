@@ -248,9 +248,9 @@
             background-color: #A3A656;
             border: none;
             color: white;
-            font-size: 12px;
+            font-size: 14px;
             font-weight: 700;
-            padding: 8px 18px;
+            padding: 12px 30px;
             border-radius: 35px;
             cursor: pointer;
             transition: background-color 0.3s ease;
@@ -309,8 +309,8 @@
        }
 
        .plan h3 {
-            font-size: 20px;
-            font-weight: 600;
+            font-size: 25px;
+            font-weight: 700;
             margin: 10px 0 20px;
        }
 
